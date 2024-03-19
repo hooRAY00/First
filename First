@@ -1,0 +1,12 @@
+$ touch index.html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Discord Server</title>
+</head>
+<body>
+	<h1>Welcome to My Discord Server!</h1>
+	<p>Join the community and chat with other members in real-time.</p>
+	<a href="https://discord.gg/aVeSM5Hz">Join Here</a>
+</body>
+</html>
